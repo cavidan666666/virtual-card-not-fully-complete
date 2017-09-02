@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\KreditKarti5\KreditKarti5\bin\Debug\KreditKarti5.exe.config
+c:\users\user\documents\visual studio 2017\Projects\KreditKarti5\KreditKarti5\bin\Debug\KreditKarti5.exe
+c:\users\user\documents\visual studio 2017\Projects\KreditKarti5\KreditKarti5\bin\Debug\KreditKarti5.pdb
+c:\users\user\documents\visual studio 2017\Projects\KreditKarti5\KreditKarti5\obj\Debug\KreditKarti5.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\KreditKarti5\KreditKarti5\obj\Debug\KreditKarti5.exe
+c:\users\user\documents\visual studio 2017\Projects\KreditKarti5\KreditKarti5\obj\Debug\KreditKarti5.pdb
